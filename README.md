@@ -1,5 +1,5 @@
-# 8 Protocol (8P): 8 rules to recursively define 8 Protocol
-## 8 Framework/system problems which 8 Protocol solves
+# 8 rules to recursively define 8 Protocol (8P)
+## 8 problems which 8 Protocol solves
 __1: Near-sighted brain:__
   
  _Problem: When coding, we usually tend to overestimate how much our brains can process and remember at one time. What happens is that we find ourselves re-learning things in our frameworks/systems that we have looked at dozens of times already, but since forgotten because there's just too much to keep in my head at once, and even if it's organized, my brain can't grasp these things if my codebase is too big. The result is usually that instead of spending our brainpower solving the problem at hand or exponentially improving our efficiency through clever optimization solutions (like this one ;), we must instead spend a large fraction of our brainpower trying to remember why the flip we made a 52-line function that does 4 different things, or get lost trying to find a simple function in a bloated codebase._
