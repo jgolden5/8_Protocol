@@ -1,4 +1,4 @@
-# 8 rules to recursively define 8 Protocol (8P)
+# 8 Protocol (8P)
 ## 8 problems which 8 Protocol solves
 __1: Near-sighted brain:__
   
